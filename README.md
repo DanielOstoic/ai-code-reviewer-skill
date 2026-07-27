@@ -1,2 +1,26 @@
-# ai-code-reviewer-skill
-AI Code Reviewer Agent Skill helps developers review code with AI like a senior engineer. Detect bugs, security risks, performance issues, and improvement opportunities. Get structured feedback and practical suggestions to write cleaner, safer, and better code faster.
+# AI Code Reviewer Skill
+
+An AI agent skill that performs professional code reviews.
+
+## Features
+
+- Bug detection
+- Security analysis
+- Performance review
+- Refactoring suggestions
+
+## Example
+
+Input:
+
+Review this Python API.
+
+Output:
+
+- Security issues
+- Improvements
+- Better implementation
+
+## Installation
+
+Import the skill instructions into your AI agent.
